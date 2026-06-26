@@ -1,4 +1,4 @@
-python-telegram-bot==20.7
+ python-telegram-bot==20.7
 requests
 deep-translator
 yt-dlp
@@ -8,3 +8,4 @@ pillow
 dnspython
 edge-tts
 python-dotenv
+Flask
